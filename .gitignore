@@ -1,0 +1,6 @@
+obj
+in
+appsettings.json
+*.db
+*.zip
+original
