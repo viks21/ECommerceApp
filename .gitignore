@@ -1,5 +1,5 @@
 obj
-in
+bin
 appsettings.json
 *.db
 *.zip
